@@ -1,0 +1,45 @@
+body{
+  font-family:Arial, "Courier New", sans-serif; 
+}
+
+.title{
+  color:#00F;
+  font-size: 40px;
+}
+
+.descricao{
+  background-color: #999;
+}
+
+.descricao,
+.descricao-title{
+  font-size:38px;
+  text-align: center;
+}
+
+.recipe-img{
+  height: auto;
+  width: 300px;
+}
+
+.ingredients-title,
+.ingredients,
+.steps-title,
+.steps{
+  font-size: 34px;
+  background-color: #ddd;
+}
+
+.ingredients li{
+  color: #009;
+}
+
+.title,
+.descricao-index,
+.recipes{
+  text-align: center;
+}
+
+.recipes{
+  list-style-type: none;
+}
